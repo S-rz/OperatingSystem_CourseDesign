@@ -1,1 +1,1 @@
-# OperatingSystem_CourseDesign
+# HUST CS Operating System Course Design
